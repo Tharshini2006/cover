@@ -1,5 +1,4 @@
 # Ex.06 Book Front Cover Page Design
-## Date:02.05.2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -95,11 +94,10 @@ Publish the website in the LocalHost.
     </head>
     <body bgcolor="grey">
       <div class="image-container">
-        <img src="book cover 2.jpeg" alt="Image" height="50px" width="50px">
-        <div class="centered-text"><h2><br><br><br>Harry Potter<HR><H3>To Unravel The Mystery</H3></h2></div>
+        <img src="tharsh/bookapp/static/sec.jpeg" alt="Image" height="50px" width="50px">
+        <div class="centered-text"><h2><br><br><br>Achieve Success with SEC<HR><H3>SEC</H3></h2></div>
       </div> <BR><br><br><br>
-        <div class="centered-text2"><h3>J K ROWLING</h3><HR><H4>CREATED BY THARSHINI.M</H4></div>
-        <div class="centered-text4"><img src="mypic.jpg" width="130px" height="130px"></div>
+        <div class="centered-text2"><h3>An SECian Alumni perpective</h3><HR><H4>CREATED BY THARSHINI.M</H4></div>
     </body>
     </html>
     
